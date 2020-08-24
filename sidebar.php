@@ -1,6 +1,8 @@
 <!-- Overlay for fixed sidebar -->
 <div class="sidebar-overlay "></div>
-
+<div class="sidebar-overlay "></div>
+<div class="sidebar-overlay "></div>
+<div class="sidebar-overlay "></div>
 <!-- Material sidebar -->
 <aside id="sidebar" class="sidebar sidebar-colored  sidebar-fixed-left" role="navigation">
 
